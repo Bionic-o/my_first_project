@@ -1,0 +1,29 @@
+html {
+    background-color: gray;
+
+}
+
+h1 {
+    color: darkblue;
+    text-align:center;
+    font-weight:bolder;
+    margin: 50px;
+    
+}
+
+p {
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Nico {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Blockchain {
+    display:block;
+    margin-right: auto;
+    margin-left: 50px;
+}
