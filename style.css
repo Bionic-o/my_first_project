@@ -1,5 +1,6 @@
 html {
     background-color: gray;
+    font-size: 16px;
 
 }
 
@@ -7,7 +8,9 @@ h1 {
     color: darkblue;
     text-align:center;
     font-weight:bolder;
+    font-size: 3rem;
     margin: 50px;
+    text-decoration: underline;
     
 }
 
@@ -20,6 +23,8 @@ p {
     display:block;
     margin-right: auto;
     margin-left: auto;
+    border: 2px solid darkblue;
+    border-radius: 50%;
 }
 
 .Blockchain {
